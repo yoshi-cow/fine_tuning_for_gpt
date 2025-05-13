@@ -1,2 +1,0 @@
-# fine_tuning_for_gpt
-gptのベースモデルに対するファインチューニングを学ぶ
