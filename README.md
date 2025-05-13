@@ -186,4 +186,12 @@ JSON Lines形式のトレーニングデータセットをOpenAIプラットフ�
 
 ファインチューニングと評価のプロセスを経て、期待通りの性能を持つカスタムモデルが完成したら、そのモデルを実際のアプリケーションに統合し、利用を開始する。
 
+<hr>
+ファインチューニングのサンプルコードは、fine_tuning_sample.ipynbを参照
+<br>
+
+##### Fine Tuning Documentations
+* openai docs: https://platform.openai.com/docs/guides/fine-tuning
+* openai SFT docs: https://platform.openai.com/docs/guides/supervised-fine-tuning
+* openai api docs: https://platform.openai.com/docs/api-reference/fine-tuning
 
