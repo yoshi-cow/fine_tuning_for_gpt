@@ -2,7 +2,7 @@
 gptのベースモデルに対するファインチューニングを学ぶ
 
 ## ファイル構成
-* fine_tuning.ipynb - ファインチューニングサンプルコード
+* fine_tuning_sample.ipynb - ファインチューニングサンプルコード
 * training_data.jsonl - トレーニング用データセット
 * validation_data.jsonl - バリデーション用データセット
 * training_validation_loss.csv - モデル訓練時の各損失推移
